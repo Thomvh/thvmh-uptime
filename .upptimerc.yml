@@ -5,11 +5,11 @@ repo: thvmh-uptime # Your Github repository name
 # Add your sites here
 sites:
   - name: STRMRocks Plex
-    url: https://plex.strm.rocks
+    url: https://plex.strm.rocks/web/index.html
   - name: x5i5 Plex
-    url: https://plex.x5i5.stream
+    url: https://plex.x5i5.stream/web/index.html
   - name: x5i5 Plex2
-    url: https://plex2.x5i5.stream  
+    url: https://plex2.x5i5.stream/web/index.html
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
