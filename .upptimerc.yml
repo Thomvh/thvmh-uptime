@@ -17,7 +17,7 @@ status-website:
   cname: status.thvmh.nl
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /thvmh-uptime
-  apiBaseUrl: https://api.github.com
+  apiBaseUrl: api.github.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Thvmh Uptime
   introTitle: "Status of Thvmh services"
