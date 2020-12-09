@@ -12,6 +12,7 @@ sites:
     url: https://plex2.x5i5.stream/web/index.html
 
 status-website:
+  publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.thvmh.nl
   # Uncomment the following line if you don't have a custom domain and add your repo name
