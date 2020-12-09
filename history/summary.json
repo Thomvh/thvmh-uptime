@@ -4,18 +4,20 @@
     "url": "$STRM_PLEX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "strm-rocks-plex",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 456,
     "timeDay": 456,
     "timeWeek": 456,
     "timeMonth": 456,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-09": 2
+    }
   },
   {
     "name": "x5i5 Plex",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "x5i5-plex2",
     "status": "down",
-    "uptime": "77.93%",
-    "uptimeDay": "77.93%",
-    "uptimeWeek": "77.93%",
-    "uptimeMonth": "77.93%",
-    "uptimeYear": "77.93%",
+    "uptime": "75.85%",
+    "uptimeDay": "75.85%",
+    "uptimeWeek": "75.85%",
+    "uptimeMonth": "75.85%",
+    "uptimeYear": "75.85%",
     "time": 303,
     "timeDay": 303,
     "timeWeek": 303,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2020-12-09": 273
+      "2020-12-09": 307
     }
   }
 ]
