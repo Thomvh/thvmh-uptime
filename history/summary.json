@@ -42,14 +42,14 @@
     "url": "$X5I5_PLEX2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "x5i5-plex2",
-    "status": "up",
-    "uptime": "63.42%",
-    "uptimeDay": "50.27%",
-    "uptimeWeek": "58.52%",
-    "uptimeMonth": "63.42%",
-    "uptimeYear": "63.42%",
+    "status": "down",
+    "uptime": "64.24%",
+    "uptimeDay": "50.26%",
+    "uptimeWeek": "59.44%",
+    "uptimeMonth": "64.24%",
+    "uptimeYear": "64.24%",
     "time": 279,
-    "timeDay": 263,
+    "timeDay": 258,
     "timeWeek": 277,
     "timeMonth": 279,
     "timeYear": 279,
@@ -60,7 +60,7 @@
       "2020-12-13": 571,
       "2020-12-12": 601,
       "2020-12-11": 582,
-      "2020-12-10": 501
+      "2020-12-10": 409
     }
   }
 ]
