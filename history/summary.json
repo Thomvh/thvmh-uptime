@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "x5i5-plex",
     "status": "down",
-    "uptime": "97.31%",
-    "uptimeDay": "69.14%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "97.31%",
+    "uptime": "97.21%",
+    "uptimeDay": "68.00%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "97.21%",
     "time": 479,
     "timeDay": 311,
     "timeWeek": 465,
     "timeMonth": 479,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2020-12-20": 444
+      "2020-12-20": 461
     }
   },
   {
@@ -45,15 +45,15 @@
     "url": "$X5I5_PLEX2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "x5i5-plex2",
-    "status": "up",
-    "uptime": "73.72%",
-    "uptimeDay": "56.70%",
-    "uptimeWeek": "56.97%",
-    "uptimeMonth": "73.72%",
-    "uptimeYear": "73.72%",
+    "status": "down",
+    "uptime": "73.91%",
+    "uptimeDay": "57.44%",
+    "uptimeWeek": "57.25%",
+    "uptimeMonth": "73.91%",
+    "uptimeYear": "73.91%",
     "time": 282,
-    "timeDay": 321,
-    "timeWeek": 280,
+    "timeDay": 319,
+    "timeWeek": 281,
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {
@@ -64,7 +64,7 @@
       "2020-12-16": 713,
       "2020-12-15": 675,
       "2020-12-14": 632,
-      "2020-12-13": 50
+      "2020-12-13": 22
     }
   }
 ]
