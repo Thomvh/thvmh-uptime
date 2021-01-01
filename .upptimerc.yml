@@ -8,8 +8,6 @@ sites:
     url: $STRM_PLEX
   - name: x5i5 Plex
     url: $X5I5_PLEX
-  - name: x5i5 Plex2
-    url: $X5I5_PLEX2
 
 status-website:
   #publish: true
