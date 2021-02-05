@@ -39,9 +39,9 @@
     "url": "$X5I5_PLEX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "x5i5-plex",
-    "status": "up",
+    "status": "down",
     "uptime": "98.22%",
-    "uptimeDay": "74.87%",
+    "uptimeDay": "74.86%",
     "uptimeWeek": "96.41%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "98.22%",
@@ -51,6 +51,7 @@
     "timeMonth": 475,
     "timeYear": 471,
     "dailyMinutesDown": {
+      "2021-02-05": 0,
       "2021-02-04": 362,
       "2021-01-25": 165,
       "2020-12-20": 961
