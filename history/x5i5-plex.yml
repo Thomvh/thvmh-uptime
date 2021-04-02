@@ -1,7 +1,7 @@
 url: $X5I5_PLEX
-status: down
-code: 502
-responseTime: 328
-lastUpdated: 2021-04-02T20:21:14.361Z
+status: up
+code: 200
+responseTime: 598
+lastUpdated: 2021-04-02T20:42:50.928Z
 startTime: Tue Dec 08 2020 22:24:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
