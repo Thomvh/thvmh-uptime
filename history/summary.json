@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.28%",
     "time": 767,
-    "timeDay": 683,
-    "timeWeek": 472,
-    "timeMonth": 438,
-    "timeYear": 740,
+    "timeDay": 494,
+    "timeWeek": 487,
+    "timeMonth": 437,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2021-10-15": 475,
       "2021-10-14": 672,
@@ -28,8 +28,7 @@
       "2021-02-24": 327,
       "2021-02-23": 193,
       "2021-02-20": 238,
-      "2021-02-17": 465,
-      "2021-02-16": 318
+      "2021-02-17": 465
     }
   },
   {
@@ -38,18 +37,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "x5i5-plex",
     "status": "down",
-    "uptime": "60.76%",
+    "uptime": "60.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.74%",
+    "uptimeYear": "53.61%",
     "time": 456,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2022-02-15": 7,
+      "2022-02-16": 7,
+      "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
@@ -223,8 +223,7 @@
       "2021-06-26": 273,
       "2021-05-18": 17,
       "2021-05-03": 29,
-      "2021-02-26": 535,
-      "2021-02-16": 756
+      "2021-02-26": 535
     }
   }
 ]
