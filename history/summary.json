@@ -11,9 +11,9 @@
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.64%",
     "time": 521,
-    "timeDay": 1564,
-    "timeWeek": 766,
-    "timeMonth": 629,
+    "timeDay": 389,
+    "timeWeek": 758,
+    "timeMonth": 626,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2022-09-11": 557,
@@ -29,18 +29,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "x5i5-plex",
     "status": "down",
-    "uptime": "41.02%",
+    "uptime": "40.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 425,
+    "time": 426,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-11": 643,
+      "2022-09-12": 14,
+      "2022-09-11": 1440,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
@@ -403,8 +404,7 @@
       "2021-09-16": 1440,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
-      "2021-09-13": 1440,
-      "2021-09-12": 1440
+      "2021-09-13": 1440
     }
   }
 ]
