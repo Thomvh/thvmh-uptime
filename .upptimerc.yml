@@ -20,6 +20,7 @@ status-website:
   name: Thvmh Uptime
   introTitle: "Status of Thvmh services"
   introMessage: Check the status of the Thvmh provided services
+  theme: dark
   navbar:
     - title: Status
       href: /
