@@ -6,8 +6,8 @@ repo: thvmh-uptime # Your Github repository name
 sites:
   - name: STRMRocks Plex
     url: $STRM_PLEX
-  - name: x5i5 Plex
-    url: $X5I5_PLEX
+  - name: Thvmh - Website
+    url: $THVMH_SITE
 
 status-website:
   #publish: true
