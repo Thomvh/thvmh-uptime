@@ -1,7 +1,7 @@
 url: $STRM_PLEX
-status: down
-code: 503
-responseTime: 580
-lastUpdated: 2024-09-12T11:56:52.915Z
+status: up
+code: 200
+responseTime: 451
+lastUpdated: 2024-09-12T12:08:16.485Z
 startTime: 2020-12-08T22:23:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
