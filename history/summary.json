@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "strm-rocks-plex",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "33.76%",
-    "uptimeWeek": "90.09%",
+    "uptime": "99.47%",
+    "uptimeDay": "43.81%",
+    "uptimeWeek": "90.32%",
     "uptimeMonth": "97.59%",
     "uptimeYear": "99.51%",
-    "time": 725,
-    "timeDay": 689,
-    "timeWeek": 2213,
-    "timeMonth": 1002,
-    "timeYear": 753,
+    "time": 724,
+    "timeDay": 599,
+    "timeWeek": 672,
+    "timeMonth": 1005,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2025-01-02": 824,
       "2025-01-01": 151,
@@ -38,8 +38,7 @@
       "2024-05-21": 65,
       "2024-05-08": 46,
       "2024-04-20": 18,
-      "2024-02-13": 40,
-      "2024-01-04": 70
+      "2024-02-13": 40
     }
   },
   {
@@ -54,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 492,
-    "timeDay": 309,
+    "timeDay": 388,
     "timeWeek": 382,
-    "timeMonth": 378,
+    "timeMonth": 381,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2024-11-06": 158,
