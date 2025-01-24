@@ -4,8 +4,8 @@
     "url": "$STRM_PLEX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "strm-rocks-plex",
-    "status": "up",
-    "uptime": "99.47%",
+    "status": "down",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.63%",
@@ -16,6 +16,7 @@
     "timeMonth": 988,
     "timeYear": 755,
     "dailyMinutesDown": {
+      "2025-01-24": 0,
       "2025-01-02": 824,
       "2025-01-01": 151,
       "2024-12-26": 23,
